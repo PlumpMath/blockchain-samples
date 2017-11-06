@@ -1,0 +1,7 @@
+c:\users\mvanderveeken\source\repos\OSIsoft.Blockchain\OSIsoft.Blockchain\bin\Debug\OSIsoft.Blockchain.exe.config
+c:\users\mvanderveeken\source\repos\OSIsoft.Blockchain\OSIsoft.Blockchain\bin\Debug\OSIsoft.Blockchain.exe
+c:\users\mvanderveeken\source\repos\OSIsoft.Blockchain\OSIsoft.Blockchain\bin\Debug\OSIsoft.Blockchain.pdb
+c:\users\mvanderveeken\source\repos\OSIsoft.Blockchain\OSIsoft.Blockchain\obj\Debug\OSIsoft.Blockchain.csprojResolveAssemblyReference.cache
+c:\users\mvanderveeken\source\repos\OSIsoft.Blockchain\OSIsoft.Blockchain\obj\Debug\OSIsoft.Blockchain.csproj.CoreCompileInputs.cache
+c:\users\mvanderveeken\source\repos\OSIsoft.Blockchain\OSIsoft.Blockchain\obj\Debug\OSIsoft.Blockchain.exe
+c:\users\mvanderveeken\source\repos\OSIsoft.Blockchain\OSIsoft.Blockchain\obj\Debug\OSIsoft.Blockchain.pdb
